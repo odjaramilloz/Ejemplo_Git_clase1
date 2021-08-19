@@ -1,4 +1,5 @@
 # Ejemplo_Git_clase1
+Cambio desde pc
 Este repositorio es una práctica de cómo usar git con github desde la terminal
 
 _________________________¶¶¶¶¶
